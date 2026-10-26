@@ -1,0 +1,5 @@
+# One row per release. Times in UTC (US CPI and NFP: 12:30 UTC in summer, 13:30 UTC in winter).
+# actual/forecast/previous may be written as on calendar sites: 0.3%, 256K, -1.2M.
+# forecast = market consensus before the release; it is what makes a "surprise".
+# Fill in real values from an economic calendar's history before running the study.
+datetime_utc,event,actual,forecast,previous
